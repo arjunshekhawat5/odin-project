@@ -1,0 +1,16 @@
+body, li{
+    text-align: center;
+    background-color: grey ;
+    color: grey;
+}
+
+h1{
+    background-color: orange;
+    padding: 20px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+a{
+    color: paleturquoise;
+}
